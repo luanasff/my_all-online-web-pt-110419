@@ -11,4 +11,4 @@ def my_all?(collection)
   end  
 end
 binding.pry
-my_all?([1,2,3]) {|i| i < 2}
+
